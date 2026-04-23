@@ -5,10 +5,10 @@
 <h3 align="center">🚀 Full Stack Engineer | 🤖 AI Automation Builder | ⚡ System Design Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nikhil-erroju-152533235/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:errojunikhil@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://your-portfolio.com">
