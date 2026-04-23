@@ -131,14 +131,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nikhil6041tiG&theme=tokyonight" />
-</p>
-
----
-
 ## 💡 Current Focus
 
 * 🚀 Building AI-powered SaaS tools
