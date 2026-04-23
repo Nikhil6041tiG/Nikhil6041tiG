@@ -131,10 +131,10 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nikhil6041tiG/Nikhil6041tiG/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com/?user=Nikhil6041tiG&theme=tokyonight" />
 </p>
 
 ---
