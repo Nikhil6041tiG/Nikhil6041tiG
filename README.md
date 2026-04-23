@@ -19,8 +19,12 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,angular,js,html,css,aws&theme=dark" />
-</p>---
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,js,java,spring,python,mysql,postgres,redis,supabase,git,github,html,css,cloudfare" />
+
+</p>
+
+---
 
 ## ⚡ About Me
 
@@ -29,16 +33,6 @@
 * 📊 Data Analyst (Power BI, SQL, Python)
 * ⚙️ Built scalable systems: CRM, Job Matching Engine, ATS Resume Builder
 * ☁️ Cloud & DB: AWS, Supabase, Neon DB, MySQL
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,js,java,spring,python,mysql,postgres,redis,supabase,git,github" />
-
-</p>
 
 ---
 
