@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 
-<h3 align="center">🚀 Full Stack Engineer | 🤖 AI Automation Builder | ⚡ System Design Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Engineer ⚡ System Design Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhil-erroju-152533235/">
@@ -37,22 +37,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-### 🔥 AI Resume Builder + JD Parser
-
-✔️ Generates ATS-optimized resumes
-✔️ Intelligent keyword matching
-✔️ Built with React + Spring Boot + Python
-
----
-
-### 🎯 Job Suiter System
-
-✔️ Matches 5000+ jobs with users
-✔️ Skill + Domain + Location filtering
-✔️ Scalable matching engine
-
----
 
 ### 🏢 CRM for ApplyWizz
 
